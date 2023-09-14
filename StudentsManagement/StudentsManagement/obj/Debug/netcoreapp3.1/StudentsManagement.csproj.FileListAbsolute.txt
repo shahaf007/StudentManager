@@ -1,0 +1,26 @@
+D:\c# projects\StudentsManagement\StudentsManagement\bin\Debug\netcoreapp3.1\StudentsManagement.exe
+D:\c# projects\StudentsManagement\StudentsManagement\bin\Debug\netcoreapp3.1\StudentsManagement.deps.json
+D:\c# projects\StudentsManagement\StudentsManagement\bin\Debug\netcoreapp3.1\StudentsManagement.runtimeconfig.json
+D:\c# projects\StudentsManagement\StudentsManagement\bin\Debug\netcoreapp3.1\StudentsManagement.runtimeconfig.dev.json
+D:\c# projects\StudentsManagement\StudentsManagement\bin\Debug\netcoreapp3.1\StudentsManagement.dll
+D:\c# projects\StudentsManagement\StudentsManagement\bin\Debug\netcoreapp3.1\StudentsManagement.pdb
+D:\c# projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.csprojAssemblyReference.cache
+D:\c# projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.AssemblyInfoInputs.cache
+D:\c# projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.AssemblyInfo.cs
+D:\c# projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.csproj.CoreCompileInputs.cache
+D:\c# projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.dll
+D:\c# projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.pdb
+D:\c# projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.genruntimeconfig.cache
+D:\c#projects\StudentsManagement\StudentsManagement\bin\Debug\netcoreapp3.1\StudentsManagement.exe
+D:\c#projects\StudentsManagement\StudentsManagement\bin\Debug\netcoreapp3.1\StudentsManagement.deps.json
+D:\c#projects\StudentsManagement\StudentsManagement\bin\Debug\netcoreapp3.1\StudentsManagement.runtimeconfig.json
+D:\c#projects\StudentsManagement\StudentsManagement\bin\Debug\netcoreapp3.1\StudentsManagement.runtimeconfig.dev.json
+D:\c#projects\StudentsManagement\StudentsManagement\bin\Debug\netcoreapp3.1\StudentsManagement.dll
+D:\c#projects\StudentsManagement\StudentsManagement\bin\Debug\netcoreapp3.1\StudentsManagement.pdb
+D:\c#projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.AssemblyInfoInputs.cache
+D:\c#projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.AssemblyInfo.cs
+D:\c#projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.csproj.CoreCompileInputs.cache
+D:\c#projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.dll
+D:\c#projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.pdb
+D:\c#projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.genruntimeconfig.cache
+D:\c#projects\StudentsManagement\StudentsManagement\obj\Debug\netcoreapp3.1\StudentsManagement.csprojAssemblyReference.cache
